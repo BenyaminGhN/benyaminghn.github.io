@@ -800,6 +800,10 @@ progress {
   width: 100%;
 }
 
+.offset-0 {
+  margin-left: 4.0%;
+}
+
 .offset-1 {
   margin-left: 8.33333333%;
 }
